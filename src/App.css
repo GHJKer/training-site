@@ -16,22 +16,3 @@
   grid-template-columns: 2fr 10fr;
   /* grid-gap: 10px; */
 }
-
-.header {
-  grid-area: h;
-  background-color: #30B169;
-}
-
-.header img {
-  width: 90px;
-}
-
-.nav-bar {
-  grid-area: n;
-  background-color: #E4C0A6;
-}
-
-.content {
-  grid-area: c;
-  background-color: #4C8CF4;
-}
